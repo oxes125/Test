@@ -3,10 +3,7 @@ console.log();git <div class="dropdown open">
     <a
         class="btn btn-secondary dropdown-toggle"
         type="button"
-        id="triggerId"
-        data-bs-toggle="dropdown"
-        aria-haspopup="true"
-        aria-expanded="false"
+
     >
         Dropdown Anchor
     </a>
