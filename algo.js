@@ -1,15 +1,14 @@
 
 console.log();git <div class="dropdown open">sdfdfs
-    <asdf
+    <sdf
         class="btn btn-secondary dropdown-toggle"sdf
         type="button"fsdf
-        id="triggerId"fds
+        id="sdf"fds
         data-bs-toggle="dfsdropdown"fds
-        aria-haspopup="true"fsd
-        aria-expanded="false"sdfsd
+        aria-sdf="true"fsd
+        aria-expanded=sdffalse"sdfsd
     >sdf
-        Dropdown Anchorsdf
-    </a>
+sdf    </a>
     <div class="dropdown-menu" aria-labelledby="triggerId">
         <a class="dropdown-item" href="#">Action</a>
         <a class="dropdown-item disabled" href="#">Disabled action</a>
