@@ -1,13 +1,12 @@
 
-console.loggf();git fg<div class="dropdown open">sdfdfs
-    <gfdgf
-        clafgss="btn btn-secsgfondary dropdown-toggle"sdfgdf
-        type="bugfsgfftton"fsdfdgf
-        id=rwer"gsdf"fdsdgf
-        data-bs-df="dfsdropdown"fds
+console.ldfsoggf();git fg<div class="dropdown open">sdfdfs
+    <gfdgff
+        ds="btn btn-sdfsecsgfondary dropdown-toggle"sdfgdf
+        type=ds"bugfsgfftton"fsdfdgf
+        id=rwedsfs-df="dfsdropdown"fds
         aria-sdggfgfgfsf="true"fsd
         erew-expanded=sdffalse"sdfsd
-    >wers
+    >werssdf
 sdf    fgfs</a>
     <div class="dropdown-menu" aria-labelledby="triggerId">
         <a class="dropdown-item" href="#">Action</a>
