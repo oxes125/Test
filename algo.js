@@ -1,10 +1,10 @@
 
 console.log();git <div class="dropdown open">sdfdfs
-    <sdf
-        class="btn btn-secondary dropdown-toggle"sdf
-        type="button"fsdf
-        id=rwer"sdf"fds
-        data-bs-toggle="dfsdropdown"fds
+    <gfd
+        class="btn btn-secondary dropdown-toggle"sdfgdf
+        type="button"fsdfdgf
+        id=rwer"sdf"fdsdgf
+        data-bs-df="dfsdropdown"fds
         aria-sdf="true"fsd
         erew-expanded=sdffalse"sdfsd
     >wer
